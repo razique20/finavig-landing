@@ -93,10 +93,10 @@ export function LegalPage({
             <p className="text-sm text-slate-600">
               Questions? Reach us at{" "}
               <a
-                href="mailto:support@wazy.app"
+                href="mailto:support@finavig.app"
                 className="font-semibold text-violet hover:underline"
               >
-                support@wazy.app
+                support@finavig.app
               </a>
               .
             </p>

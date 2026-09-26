@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wazy.app/sitemap.xml
+Sitemap: https://finavig.app/sitemap.xml

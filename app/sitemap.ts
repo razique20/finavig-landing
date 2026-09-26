@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://wazy.app";
+  const baseUrl = "https://finavig.app";
   const currentDate = new Date().toISOString();
 
   return [

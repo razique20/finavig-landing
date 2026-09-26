@@ -10,7 +10,7 @@ export function Footer() {
         <div className="flex flex-col items-start justify-between gap-10 md:flex-row">
           <div className="max-w-sm">
             <Link href="/" className="text-xl font-bold tracking-tight text-white transition hover:text-violet-light">
-              Wazy
+              Finavig
             </Link>
             <p className="mt-4 text-sm leading-relaxed text-slate-400">
               Every renewal. Every dirham. One dashboard — financial
@@ -44,11 +44,11 @@ export function Footer() {
               <ul className="mt-4 space-y-2.5 text-sm">
                 <li>
                   <a
-                    href="mailto:support@wazy.app"
+                    href="mailto:support@finavig.app"
                     className="flex items-center gap-2 text-slate-400 transition hover:text-violet-light"
                   >
                     <Mail className="h-4 w-4" />
-                    support@wazy.app
+                    support@finavig.app
                   </a>
                 </li>
                 <li>
@@ -77,7 +77,7 @@ export function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-white/10 pt-6 text-xs text-slate-500 sm:flex-row">
-          <span>© 2026 Wazy. All rights reserved.</span>
+          <span>© 2026 Finavig. All rights reserved.</span>
           <span>Made for the GCC 🌍</span>
         </div>
       </div>

@@ -11,13 +11,13 @@ import { FinalCta } from "@/components/final-cta";
 const softwareSchema = {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
-  name: "Wazy",
+  name: "Finavig",
   applicationCategory: "FinanceApplication",
   operatingSystem: "iOS, Android",
   description:
     "AI-powered financial budgeting & cash-flow intelligence app with document expiry tracking and renewal alerts, built for personal users, freelancers and businesses across the GCC.",
-  url: "https://wazy.app",
-  image: "https://wazy.app/logo.png",
+  url: "https://finavig.app",
+  image: "https://finavig.app/logo.png",
   offers: [
     { "@type": "Offer", name: "Free Tier", price: "0", priceCurrency: "AED" },
     { "@type": "Offer", name: "Plus Tier", price: "25", priceCurrency: "AED" },
@@ -36,18 +36,18 @@ const softwareSchema = {
 const orgSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  name: "Wazy",
-  url: "https://wazy.app",
-  logo: "https://wazy.app/logo.png",
-  email: "support@wazy.app",
+  name: "Finavig",
+  url: "https://finavig.app",
+  logo: "https://finavig.app/logo.png",
+  email: "support@finavig.app",
   description: "Financial intelligence and document expiry tracking for the GCC.",
 };
 
 const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  name: "Wazy",
-  url: "https://wazy.app",
+  name: "Finavig",
+  url: "https://finavig.app",
 };
 
 const faqSchema = {
@@ -56,18 +56,18 @@ const faqSchema = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "Which countries does Wazy support?",
+      name: "Which countries does Finavig support?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "All six GCC countries — UAE, Saudi Arabia, Qatar, Kuwait, Bahrain and Oman. Wazy natively supports each country's currency (AED, SAR, QAR, KWD, BHD, OMR) and its government authorities.",
+        text: "All six GCC countries — UAE, Saudi Arabia, Qatar, Kuwait, Bahrain and Oman. Finavig natively supports each country's currency (AED, SAR, QAR, KWD, BHD, OMR) and its government authorities.",
       },
     },
     {
       "@type": "Question",
-      name: "What platforms does Wazy support?",
+      name: "What platforms does Finavig support?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Wazy is available on iOS and Android. Your data syncs through your account, so your documents and budgets follow you across devices.",
+        text: "Finavig is available on iOS and Android. Your data syncs through your account, so your documents and budgets follow you across devices.",
       },
     },
     {
@@ -80,7 +80,7 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      name: "Is Wazy free?",
+      name: "Is Finavig free?",
       acceptedAnswer: {
         "@type": "Answer",
         text: "Yes — the Free tier is AED 0 forever: 1 personal collection with up to 10 tracked documents, standard 30/60/90-day renewal reminders, basic budgets, plus AI summaries.",

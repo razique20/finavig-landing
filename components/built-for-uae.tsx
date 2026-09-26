@@ -4,7 +4,7 @@ const items = [
   {
     icon: CreditCard,
     title: "Emirates ID",
-    body: "Tracked to the day, with the renewal window Wazy knows you need.",
+    body: "Tracked to the day, with the renewal window Finavig knows you need.",
   },
   {
     icon: Building2,
@@ -62,7 +62,7 @@ export function BuiltForUae() {
             Speaks Emirati paperwork fluently
           </h2>
           <p className="mt-4 text-lg text-slate-300">
-            From GDRFA to DEWA — Wazy is AED-first and tuned to how the UAE
+            From GDRFA to DEWA — Finavig is AED-first and tuned to how the UAE
             actually works.
           </p>
         </div>

@@ -22,7 +22,7 @@ const steps = [
     icon: BellRing,
     step: "3",
     title: "Get 90/60/30-day alerts",
-    body: "Wazy watches every deadline and pings you three times before it's due — with fine-risk estimates so you know the stakes.",
+    body: "Finavig watches every deadline and pings you three times before it's due — with fine-risk estimates so you know the stakes.",
   },
   {
     icon: LineChart,

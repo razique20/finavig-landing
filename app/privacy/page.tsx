@@ -4,7 +4,7 @@ import { LegalPage, type LegalSection } from "@/components/legal-page";
 export const metadata: Metadata = {
   title: "Privacy Policy",
   description:
-    "What Wazy collects, why, and how your documents and financial data stay protected. Complies with the UAE PDPL (Federal Decree-Law No. 45 of 2021).",
+    "What Finavig collects, why, and how your documents and financial data stay protected. Complies with the UAE PDPL (Federal Decree-Law No. 45 of 2021).",
   alternates: { canonical: "/privacy" },
 };
 
@@ -64,7 +64,7 @@ const sections: LegalSection[] = [
     id: "children",
     title: "Children",
     body: [
-      "Wazy is a business and productivity tool and is not directed at children under 16. We do not knowingly collect data from children.",
+      "Finavig is a business and productivity tool and is not directed at children under 16. We do not knowingly collect data from children.",
     ],
   },
   {
@@ -91,7 +91,7 @@ const sections: LegalSection[] = [
   {
     id: "contact",
     title: "Contact",
-    body: ["Privacy questions or requests: support@wazy.app."],
+    body: ["Privacy questions or requests: support@finavig.app."],
   },
 ];
 
@@ -100,7 +100,7 @@ export default function PrivacyPage() {
     <LegalPage
       title="Privacy Policy"
       lastUpdated="September 2026"
-      intro="Your documents and financial data are sensitive. This policy explains, in plain language, what Wazy collects, why, and how it stays protected. It complies with the UAE Federal Personal Data Protection Law (PDPL, Federal Decree-Law No. 45 of 2021)."
+      intro="Your documents and financial data are sensitive. This policy explains, in plain language, what Finavig collects, why, and how it stays protected. It complies with the UAE Federal Personal Data Protection Law (PDPL, Federal Decree-Law No. 45 of 2021)."
       sections={sections}
     />
   );

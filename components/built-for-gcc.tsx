@@ -110,7 +110,7 @@ export function BuiltForGcc() {
             Speaks GCC paperwork fluently
           </h2>
           <p className="mt-4 text-lg text-slate-300">
-            From GDRFA to ZATCA — Wazy is tuned to the authorities, currencies
+            From GDRFA to ZATCA — Finavig is tuned to the authorities, currencies
             and vendors of all six Gulf countries.
           </p>
         </div>

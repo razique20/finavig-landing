@@ -5,12 +5,12 @@ import { ChevronDown } from "lucide-react";
 
 const faqs = [
   {
-    q: "Which countries does Wazy support?",
-    a: "All six GCC countries — UAE, Saudi Arabia, Qatar, Kuwait, Bahrain and Oman. Wazy natively supports each country's currency (AED, SAR, QAR, KWD, BHD, OMR) and its government authorities, from RTA and GDRFA in the UAE to ZATCA and Absher in Saudi Arabia.",
+    q: "Which countries does Finavig support?",
+    a: "All six GCC countries — UAE, Saudi Arabia, Qatar, Kuwait, Bahrain and Oman. Finavig natively supports each country's currency (AED, SAR, QAR, KWD, BHD, OMR) and its government authorities, from RTA and GDRFA in the UAE to ZATCA and Absher in Saudi Arabia.",
   },
   {
-    q: "What platforms does Wazy support?",
-    a: "Wazy is available on iOS and Android. Your data syncs through your account, so your documents and budgets follow you across devices.",
+    q: "What platforms does Finavig support?",
+    a: "Finavig is available on iOS and Android. Your data syncs through your account, so your documents and budgets follow you across devices.",
   },
   {
     q: "Is my data safe?",
@@ -25,7 +25,7 @@ const faqs = [
     a: "Yes. Plus includes PDF and CSV report exports for your reports, and Business adds multi-collection team data exports. Your data is always yours to take.",
   },
   {
-    q: "Is Wazy free?",
+    q: "Is Finavig free?",
     a: "Yes — the Free tier is AED 0 forever: 1 personal collection with up to 10 tracked documents, standard 30/60/90-day renewal reminders, basic budgets, plus 3 AI Executive Summaries and 2 AI Budget Planner generations per month. Plus (AED 25/month, ≈$6.99) unlocks unlimited documents, 1 company collection, 90-day cash-flow forecasts and report exports, and Business (AED 99/month, ≈$26.99) adds unlimited company workspaces, team assignment and audit history. See the pricing section above.",
   },
   {
@@ -34,7 +34,7 @@ const faqs = [
   },
   {
     q: "How do the 90/60/30-day alerts work?",
-    a: "For every document, Wazy sends reminders at 90, 60 and 30 days before expiry. You'll see urgency colors in the app — green (safe), amber (due soon), red (expiring or expired) — alongside a fine-risk estimate if the document lapses. Plus also lets you set custom reminder alert days per document.",
+    a: "For every document, Finavig sends reminders at 90, 60 and 30 days before expiry. You'll see urgency colors in the app — green (safe), amber (due soon), red (expiring or expired) — alongside a fine-risk estimate if the document lapses. Plus also lets you set custom reminder alert days per document.",
   },
   {
     q: "How accurate is the cash-flow forecast?",
@@ -42,7 +42,7 @@ const faqs = [
   },
   {
     q: "How does the AI quota work?",
-    a: "Each subscription tier includes a monthly quota of AI Executive Summaries and AI Budget Planner generations: Free gets 3 summaries and 2 plans, Plus gets 15 and 10, Business gets 40 and 25. Wazy asks for your confirmation before using a credit, and your last generated summary or plan stays available without consuming quota.",
+    a: "Each subscription tier includes a monthly quota of AI Executive Summaries and AI Budget Planner generations: Free gets 3 summaries and 2 plans, Plus gets 15 and 10, Business gets 40 and 25. Finavig asks for your confirmation before using a credit, and your last generated summary or plan stays available without consuming quota.",
   },
 ];
 

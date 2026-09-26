@@ -17,18 +17,18 @@ export const viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://wazy.app"),
+  metadataBase: new URL("https://finavig.app"),
   title: {
-    default: "Wazy — Every renewal. Every dirham. One dashboard.",
-    template: "%s — Wazy",
+    default: "Finavig — Every renewal. Every dirham. One dashboard.",
+    template: "%s — Finavig",
   },
   description:
-    "Wazy forecasts your cash flow and tracks every document expiry — trade licences, visas, civil IDs, insurance — with alerts 90/60/30 days before they're due. Built for the GCC: UAE, Saudi Arabia, Qatar, Kuwait, Bahrain and Oman.",
-  applicationName: "Wazy",
-  authors: [{ name: "Wazy Team", url: "https://wazy.app" }],
+    "Finavig forecasts your cash flow and tracks every document expiry — trade licences, visas, civil IDs, insurance — with alerts 90/60/30 days before they're due. Built for the GCC: UAE, Saudi Arabia, Qatar, Kuwait, Bahrain and Oman.",
+  applicationName: "Finavig",
+  authors: [{ name: "Finavig Team", url: "https://finavig.app" }],
   generator: "Next.js",
   keywords: [
-    "Wazy",
+    "Finavig",
     "GCC budgeting app",
     "UAE budgeting app",
     "document expiry tracking",
@@ -44,8 +44,8 @@ export const metadata: Metadata = {
     "Oman mulkiya expiry",
   ],
   referrer: "origin-when-cross-origin",
-  creator: "Wazy",
-  publisher: "Wazy",
+  creator: "Finavig",
+  publisher: "Finavig",
   formatDetection: {
     email: false,
     address: false,
@@ -68,9 +68,9 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://wazy.app",
-    siteName: "Wazy",
-    title: "Wazy — Every renewal. Every dirham. One dashboard.",
+    url: "https://finavig.app",
+    siteName: "Finavig",
+    title: "Finavig — Every renewal. Every dirham. One dashboard.",
     description:
       "AI-powered budgeting & document expiry tracking for the GCC. 90-day cash-flow forecasts, 90/60/30-day renewal alerts and Groq AI planning across all six Gulf countries.",
     images: [
@@ -78,13 +78,13 @@ export const metadata: Metadata = {
         url: "/logo.png",
         width: 512,
         height: 512,
-        alt: "Wazy App Logo - GCC Budgeting & Document Expiry Tracking",
+        alt: "Finavig App Logo - GCC Budgeting & Document Expiry Tracking",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Wazy — Every renewal. Every dirham. One dashboard.",
+    title: "Finavig — Every renewal. Every dirham. One dashboard.",
     description:
       "AI-powered budgeting & document expiry tracking for the GCC. 90-day cash-flow forecasts, 90/60/30-day renewal alerts and Groq AI planning across all six Gulf countries.",
     images: ["/logo.png"],

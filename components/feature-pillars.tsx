@@ -61,7 +61,7 @@ const pillars: Pillar[] = [
   {
     icon: Mic,
     eyebrow: "Smart Automation",
-    title: "Type it or say it. Wazy does the data entry.",
+    title: "Type it or say it. Finavig does the data entry.",
     body: "Natural-language and voice entry with GCC-tuned intelligence that learns your habits.",
     points: [
       'Natural-language quick add: "Paid 1,200 SAR for office rent today" — parsed to amount, currency, category and date',

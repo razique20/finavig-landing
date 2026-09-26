@@ -2,8 +2,8 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Wazy — GCC Budgeting & Document Expiry Tracker",
-    short_name: "Wazy",
+    name: "Finavig — GCC Budgeting & Document Expiry Tracker",
+    short_name: "Finavig",
     description: "Every renewal. Every dirham. One dashboard. AI-powered budgeting & document expiry tracking across the GCC.",
     start_url: "/",
     display: "standalone",

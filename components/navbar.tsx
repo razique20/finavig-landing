@@ -35,7 +35,7 @@ export function Navbar() {
           href="/"
           className="text-lg font-bold tracking-tight text-white transition hover:text-violet-light"
         >
-          Wazy
+          Finavig
         </Link>
 
         {/* Desktop links */}

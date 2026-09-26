@@ -137,7 +137,7 @@ export function Hero() {
           </h1>
 
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-slate-300">
-            Wazy forecasts your cash flow and tracks every document expiry —
+            Finavig forecasts your cash flow and tracks every document expiry —
             trade licences, visas, civil IDs, insurance — with alerts 90/60/30
             days before they&apos;re due. Built for personal users, freelancers
             and businesses across the GCC.
