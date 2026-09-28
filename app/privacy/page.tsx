@@ -51,6 +51,7 @@ const sections: LegalSection[] = [
     title: "Retention & deletion",
     body: [
       "Your data is kept while your account is active. Deleting a document removes it from your workspace. Deleting your account initiates removal of your personal data within 30 days, except where retention is required by law.",
+      "To request account deletion, use the account deletion request form at https://finavig.app/delete-account — we process verified requests within 30 days and confirm completion by email.",
     ],
   },
   {
